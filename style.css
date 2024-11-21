@@ -1,0 +1,3129 @@
+
+.banner{
+    width: 1440px;
+    height: 80px;
+    background-color:#292929 ;
+}
+.button{
+    width: 130px;
+    height: 48px;
+    position: relative;
+    top: 16px;
+    right: 1060px;
+    border-radius: 10px;
+    border: 1px solid #39FF14;
+    background-color:transparent;
+    color: white;
+}
+.welcom{
+    width: 130px;
+    height: 48px;
+    position: relative;
+    bottom: 33px;
+    right: 1060px;
+    border-radius: 10px;
+    border: 0;
+    right:1200px;
+    background-color: #39FF14;
+    color: black;
+}
+.backgraund{
+    width: 1440px;
+    height: 670px;
+    background-color: black;
+    position: relative;
+    bottom: 16px;
+    
+}
+.backgraund img{
+    position: relative;
+    right: 900px;
+    left: 140px;
+    top: 133px ;
+}
+.line{
+    width: 340px;
+    height: 9px;
+    filter: blur(36px);
+    background-color: white;
+    position: relative;
+    right: 930px;
+    left: 145px;
+    top: 170px ;
+}
+.text-primary{
+    width: 509px;
+    height: 68px;
+    color: white;
+    font-family: "Rubik";
+    position: relative;
+    bottom: 160px;
+    right: 130px;
+    font-weight: 700px;
+    font-size: 48px;
+}
+.text-secondary{
+    width: 514px;
+    height: 66px;
+    font-family: "IBM Plex Sans Arabic";
+    position: relative;
+    bottom: 140px;
+    right: 130px ;
+    line-height: 22px;
+    font-size: 14px;
+    color: white;
+}
+.text-green{
+    color: #39FF14;
+}
+.btn-primary button{
+    width: 290px;
+    height: 48px;
+    position: relative;
+    right: 130px;
+    bottom: 110px;
+    border-radius: 10px;
+    background-color: #434A5A;
+    border: 0;
+    font-size:16px;
+    font-weight: px;
+    line-height: 22px;
+}
+.btn-primary p{
+    font-size:16px;
+    line-height: 26px;
+    color: white;
+    font-family: "IBM Plex Sans Arabic";
+    position: absolute;
+    top: 300px;
+    right: 150px;
+  
+}
+.btn-secondary button{
+    width: 150px;
+    height: 48px;
+    border-radius: 10px;
+    border: 0;
+    font-size:16px;
+    font-family: "Rubik";
+    background-color: #39FF14;
+    position: relative;
+    bottom: 160px;
+    right: 450px;
+}
+.backgraund2{
+    width: 1440px;
+    height: 560px;
+    background-color:#1B1B1B ;
+}
+.box{
+    width: 335px;
+    height: 120px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    right: 930px;
+    bottom: 60px;
+}
+.box2{
+    width: 335px;
+    height: 120px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    left: 370px;
+    bottom: 1px;
+}
+.box3{
+    width: 335px;
+    height: 120px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    left: 370px;
+    bottom: 1px;
+}
+.circle{
+    width: 48px;
+    height: 48px;
+    border-radius: 50px;
+    background-color:#434A5A;
+    position: relative;
+    right: 887px;
+    top: 16px;
+}
+.img{
+    position: relative;
+    right: 6px;
+    top: 5px;
+}
+.text-center{
+    width: 219px;
+    font-family: "IBM Plex Sans Arabic";
+    height: 34px;
+    position: relative;
+    top: 5px;
+    left: 211px;
+    color: white;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33.82px;
+    left: 80px;
+    top: 14px;
+}
+.circle3{
+    width: 48px;
+    height: 48px;
+    border-radius: 50px;
+    background-color:#434A5A;
+    position: relative;
+    right: 513px;
+    bottom: 27px;
+}
+.img2{
+    position: relative;
+    right: 6px;
+    top: 5px;
+}
+.text-center2{
+    width: 307px;
+    height: 34px;
+    position: relative;
+    left: 120px;
+    font-size: 24px;
+    font-family: "IBM Plex Sans Arabic";
+    line-height: 33.82px;
+    font-weight: 700;
+    top: 14px;
+    color: white;
+}
+.circle4{
+    width: 48px;
+    height: 48px;
+    border-radius: 50px;
+    background-color:#434A5A;
+    position: relative;
+    bottom: 70px;
+    right: 140px;
+}
+.img3{
+    position: relative;
+    right: 6px;
+    top: 5px;
+}
+.text-center3{
+    font-family:"IBM Plex Sans Arabic";
+    width: 269px;
+    height: 34px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33.82px;
+    position: relative;
+    left: 80px;
+    top: 10px;
+    color: white;
+}
+.text-highlight{
+    width:600px;
+    height: 51px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 50.73px;
+    position: relative;
+    top: 70px;
+    right: 367px;
+    color: white;
+}
+.text-notice{
+    width: 786px;
+    height: 22px;
+    font-family:"IBM Plex Sans Arabic";
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 22px;
+    align-items:center;
+    position: relative;
+    top: 20px;
+    left: 165px;
+}
+.dashed-line{
+    border-top: 3px dashed white;
+    width: 750px;
+    position: relative;
+    left: 240px;
+    top: 90px;
+    
+}
+.circle5{
+    width: 48px;
+    height: 48px;
+    border-radius: 50px;
+    background-color:#434A5A;
+    position: relative;
+    top: 65px;
+    right: 470px;
+}
+.circle5 svg{
+   width: 35px;
+   height: 40px;
+   position: relative;
+   left: -6px;
+   top: 3px;
+}
+.circle6{
+    width: 48px;
+    height: 48px;
+    border-radius: 50px;
+    background-color:#434A5A;
+    position: relative;
+    left: 260px;
+    bottom: 55px;
+}
+.circle6 svg{
+    width: 35px;
+   height: 40px;
+   position: relative;
+   left: -6px;
+   top: 3px;
+}
+.circle7{
+    width: 48px;
+    height: 48px;
+    border-radius: 50px;
+    background-color:#434A5A;
+    position: relative;
+    left: 244px;
+    bottom: 55px;
+}
+.text-large{
+    width: 400px;
+    height: 22px;
+    font-family:"IBM Plex Sans Arabic";
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+   
+}
+.text-small{
+    width: 150px;
+    height: 66px;
+    font-family: "IBM Plex Sans Arabic";
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: 12px;
+   
+}
+.text-large2{
+    width: 300px;
+    height: 22px;
+    font-family:"IBM Plex Sans Arabic";
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    position: relative;
+    bottom: 89px;
+    right:200px ;
+}
+.text-small2{
+    width: 150px;
+    height: 66px;
+    font-family: "IBM Plex Sans Arabic";
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    bottom: 75px;
+    right: 200px;
+}
+.text-large3{
+    width: 300px;
+    height: 22px;
+    font-family:"IBM Plex Sans Arabic";
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    position: relative;
+    bottom: 178px;
+    right:480px;
+}
+.text-small3{
+    width: 150px;
+    height: 66px;
+    font-family: "IBM Plex Sans Arabic";
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    bottom: 165px;
+    right: 480px;
+}
+.text-large4{
+    width: 300px;
+    height: 22px;
+    font-family:"IBM Plex Sans Arabic";
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    position: relative;
+    bottom: 265px;
+    right:750px;
+}
+.text-small4{
+    width: 150px;
+    height: 66px;
+    font-family: "IBM Plex Sans Arabic";
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    bottom: 254px;
+    right: 750px;
+}
+.box-text{
+    width: 1441.52px;
+    height: 166px;
+    background-color: #454C5F;
+    position: relative;
+    top: 166px;
+    left:524px ;
+}
+.box-text img{
+    position: relative;
+    top: 0px;
+    right: 0px;
+}
+.text-Design{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: -20px;
+}
+.text-Design{
+    color: white;
+    width: 272px;
+    height: 22px;
+    font-family:"IBM Plex Sans Arabic";
+    font-size: 20px;
+    line-height: 22px;
+    align-items: center;
+   position: relative;
+   bottom: 140px;
+   right: 584px;
+}
+.Design-green{
+    color: #39FF14;
+}
+.design-p-description{
+    color: white;
+    width: 550px;
+    height: 44px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    position: relative;
+    bottom: 98px;
+    right: 450.52px;
+    left: 410px;
+}
+.Design-titr{
+    color: white;
+    width: 550px;
+    height: 44px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    position: relative;
+    bottom: 120px;
+    right: 640.52px;
+}
+.backgraund-black{
+    width: 1441.52px;
+    height: 180px;
+    background-color: black;
+    position: relative;
+    top: 165px;
+    right: -523px;
+}
+.backgraund-gray{
+    width: 1442px;
+    height: 200px;
+    background-color: #272727;
+    position: relative;
+    top: 165px;
+    left: 523px;
+}
+.backgraund-gray p{
+   font-family: "IBM Plex Sans Arabic";
+   font-size: 36px;
+   font-weight: 700;
+   margin-right: 124px;
+  position: relative;
+  top: 20px;
+}
+.backgraund-black2{
+    width: 1441.52px;
+    height: 210px;
+    background-color: black;
+    position: relative;
+    top: 165px;
+    left: 523px;
+}
+.backgraund-text{
+    color: white;
+    width: 470px;
+    height: px;
+    font-weight: 700;
+    font-family: "IBM Plex Sans Arabic";
+    font-size: 14px;
+    line-height: 22px;
+    position: relative;
+    bottom: 100px;
+    right: 130px;
+}
+.backgraund-green{
+    color: #39FF14;
+}
+.boxvip{
+    width: 450px;
+    height: 88px;
+    background-color:#30384D ;
+    border-radius: 10px;
+}
+.circle8{
+    width: 48px;
+    height: 48px;
+    border-radius: 50px;
+    background-color:#1B1B1B;
+    position: relative;
+    top: 20px;
+    right: 20px;
+}
+.boxvip svg{
+    position: relative;
+    bottom: 10px;
+}
+.vip{
+    width: 182px;
+    height: 22px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    position: relative;
+    bottom: 38px;
+    right: 70px;
+}
+.vip-green{
+    color: #39FF14;
+}
+.Vital{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 300px;
+    font-size: 12px;
+    line-height: 22px;
+    color: white;
+    width: 200px;
+    position: relative;
+    bottom: 60px;
+    right: 270px;
+}
+.boxvip1{
+    width: 450px;
+    height: 88px;
+    background-color:#30384D ;
+    border-radius: 10px;
+}
+.circle10{
+    width: 48px;
+    height: 48px;
+    border-radius: 50px;
+    background-color:#1B1B1B;
+    position: relative;
+    top: 20px;
+    right: 20px;
+}
+.Critical{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 300px;
+    font-size: 12px;
+    line-height: 22px;
+    color: white;
+    width: 200px;
+    position: relative;
+    bottom: 60px;
+    right: 280px; 
+}
+.boxvip{
+    position: relative;
+    bottom: 400px;
+    right: 800px;
+    left: 129px;
+}
+.circle9{
+    width: 48px;
+    height: 48px;
+    border-radius: 50px;
+    background-color:#1B1B1B;
+    position: relative;
+    top: 20px;
+    right: 20px;
+}
+.vip2{
+    width: 182px;
+    height: 22px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    position: relative;
+    bottom: 38px;
+    right: 70px;
+}
+.vip-green2{
+    color: #39FF14;
+}
+.boxvip{
+    margin-bottom: 15px;
+}
+.High{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 300px;
+    font-size: 12px;
+    line-height: 22px;
+    color: white;
+    width: 200px;
+    position: relative;
+    bottom: 60px;
+    right: 290px;
+}
+.Medium{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 300px;
+    font-size: 12px;
+    line-height: 22px;
+    color: white;
+    width: 200px;
+    position: relative;
+    bottom: 60px;
+    right: 270px;
+}
+.backgraund-Gray3{
+    width: 1441px;
+    height: 990px;
+    background-color: #272727;
+    position: relative;
+    bottom: 370.9px;
+    right: px;
+}
+.tophacker{
+    width: 186px;
+    height: 51px;
+    font-family:"IBM Plex Sans Arabic";
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 50.73px;
+    position: relative;
+    top: 60px;
+    right: 627px;
+    color: white;
+}
+.text-tophacker{
+    width: 738px;
+    height: 44px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 22px;
+    margin-top: 90px;
+    margin-right: 510px;
+}
+.text-tophacker-title{
+    width: 738px;
+    height: 44px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 22px;
+    margin-top: -20px;
+    margin-right: 400px;
+}
+.big img{
+   width: 60px;
+   position: absolute;
+   top: 55px;
+  right:850px;
+}
+.big2 img{
+    width: 70px;
+    position: absolute;
+    top: 50px;
+    right: 520px;
+}
+.box-tophacker{
+    width: 330px;
+    height: 570px;
+    background-color: #30384D;
+    border-radius: 10px;
+    position: relative;
+    right: 130px;
+    top: 20px;
+}
+.box-image img{
+ position: absolute;
+ right: 19px;
+ top: 20px;
+}
+.text-tophacker-Moon{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 27.18px;
+    position: relative;
+    top: 29px;
+    right: 110px;
+}
+.tophacker-Crown{
+   width: 48px;
+   height: 48px;
+   position: relative;
+   top: 35px;
+   right: 75px;
+}
+.Profile-tophacker{
+    position: relative;
+    top: -33px;
+    right: 13px;
+}
+.Profile-tophacker p{
+    width: 66px;
+    height: 25px;
+    font-family: "Roboto" ;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 23.36px;
+   position: relative;
+   right: 45px;
+   top: 150px;
+}
+.box-block-tophacker{
+    width: 300px;
+    height: 176px;
+    background-color: #1B1B1B;
+    border-radius: 10px;
+    position: relative;
+    top: 160px;
+    left: 60px;
+}
+.styled-hr{
+    width: calc(4px 1px);
+    border: none;
+    height: 2px;
+    background-color: transparent;
+    background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(128,128,128,0.5), rgba(0,0,0,0));
+    margin: 25px ;
+    position: relative;
+    top: 260px;
+}
+.Award{
+    width: 124px;
+    height: 22px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 300;
+    font-size: 16px;
+    position: relative;
+    top: 185px;
+    right: 30px;
+}
+.Toman{
+    width: 127px;
+    height: 22px;
+    font-family: "IBM Plex Sans Arabic";
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 300;
+    position: relative;
+    top:180px ;
+    right: 180px;
+}
+.Toman-green{
+    color: #39FF14;
+}
+.Award-moon{
+    width: 88px;
+    height: 22px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    position: relative;
+    top: 209px;
+    right: 30px;
+}
+.toman1{
+    width: 200px;
+    height: 22px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 22px;
+    position: relative;
+    top:185px ;
+    right: 183px;
+}
+.styled-hr2{
+    width: calc(4px 1px);
+    border: none;
+    height: 2px;
+    background-color: transparent;
+    background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(128,128,128,0.5), rgba(0,0,0,0));
+    margin: 25px ;
+    position: relative;
+    top: 175px;
+}
+.vulnerable{
+    width: 172px;
+    height: 22px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 22px;
+    position: relative;
+    top: 165px;
+    right: 30px;
+}
+.toman2{
+    width: 127px;
+    height: 22px;
+    font-family: "IBM Plex Sans Arabic";
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 300;
+    position: relative;
+    top:140px ;
+    right: 210px;
+}
+.Award-August{
+    width: 200px;
+    height: 25px;
+    font-family:"IBM Plex Sans Arabic" ;
+    font-size: 18px;
+    line-height: 25.36px;
+    font-weight:300;
+    position: relative;
+    top: 185px;
+    right: 120px;
+
+}
+.box-aboutHacker{
+    width: 680px;
+    height: 62px;
+    background-color: #30384D;
+    position: relative;
+    bottom: 236px;
+    right: 390px;
+    border-radius: 10px;
+}
+.nome-Hacker{
+    width: 107px;
+    height: 23px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22.55px;
+    position: relative;
+    bottom: 40px;
+    right: 90px;
+}
+.Award-nome{
+    width: 107px;
+    height: 23px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22.55px;
+    position: relative;
+    bottom: 66px;
+    right: 240px;
+}
+.moon-Award{
+    width: 90px;
+    height: 23px;
+    font-family: "IBM Plex Sans Arabic";
+    font-size: 16px;
+    line-height: 22.55px;
+    font-weight: 300;
+    position: relative;
+    bottom: 88px;
+    right: 400px;
+}
+.vulnerable-box{
+    width: 130px;
+    height: 23px;
+    font-size: 16px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 300;
+    line-height: 22.55px;
+    position: relative;
+    bottom: 110px;
+    right: 555px;
+}
+.tow{
+    width: 10px;
+    height: 25px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25.36px;
+    position: relative;
+    bottom: 75px;
+    right: 15px;
+}
+.Profile-Hacker img{
+    position: absolute;
+    top: 105px;
+    right:430px;
+}
+.crown-Hacker img{
+    position: absolute;
+    top:79px;
+    right: 410px;
+}
+.blurred-text{
+    font-size: 25px;
+    color: #fff;
+    padding: 10px;
+    filter: blur(3px);
+    width: 60px;
+    height: 25px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 200;
+    line-height: px;
+    position: relative;
+    top: -300px;
+    right:480px;
+}
+.Awards-toman{
+    width: 126px;
+    height: 22px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 300;
+    position: relative;
+    top: -320px;
+    right:620px;
+
+}
+.Awards-Hacker{
+    color: #39FF14;
+}
+.Awards-moon{
+    width: 126px;
+    height: 22px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 300;
+    position: relative;
+    top: -340px;
+    right:780px;
+}
+.moon-Hacker{
+    color: #39FF14;
+}
+.vulnerable-moon{
+    width: 126px;
+    height: 22px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 300;
+    position: relative;
+    top: -363px;
+    right:950px;
+}
+.vulnerable-Hacker{
+    color: #39FF14;
+}
+.box-aboutHacker1{
+    width: 680px;
+    height: 62px;
+    background-color: #30384D;
+    position: relative;
+    bottom: 320px;
+    right: 390px;
+    border-radius: 10px;
+}
+.three{
+    width: 10px;
+    height: 25px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25.36px;
+    position: relative;
+    bottom: -20px;
+    right: 15px;
+}
+.crown-Hacker1 img{
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    top:196px;
+    right: 430px;
+}
+.Profile-Hacker2{
+    position: absolute;
+    top: 34px;
+    right:-485px;
+}
+.blurred-text1{
+    width: 73px;
+    height: 25px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25.36px;
+    font-family: "IBM Plex Sans Arabic";
+    position: relative;
+    right: 500px;
+    bottom: 365px;
+}
+.Awards-toman1{
+    width: 126px;
+    height: 22px;
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 300;
+    position: relative;
+    top: -388px;
+    right:620px;
+}
+.Awards-moon1{
+    width: 126px;
+    height: 22px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 300;
+    position: relative;
+    top: -408px;
+    right:778px;
+}
+.vulnerable-moon1{
+    width: 126px;
+    height: 22px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 300;
+    position: relative;
+    top: -429px;
+    right:950px;
+}
+.box-aboutHacker2{
+    width: 680px;
+    height: 62px;
+    background-color: #30384D;
+    position: relative;
+    bottom: 380px;
+    right: 390px;
+    border-radius: 10px;
+}
+.crown-Hacker2{
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    top:155px;
+    right: -470px;
+}
+
+.blurred-text2{
+    font-size: 25px;
+    color: #fff;
+    padding: 10px;
+    filter: blur(3px);
+    width: 60px;
+    height: 25px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 200;
+    line-height: px;
+    position: relative;
+    bottom: 448px;
+    right: 480px;
+}
+.Awards-toman2{
+    width: 126px;
+    height: 22px;
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 300;
+    position: relative;
+    top: -467px;
+    right:620px;
+}
+.Awards-moon2{
+    width: 126px;
+    height: 22px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 300;
+    position: relative;
+    top: -488px;
+    right:778px;
+}
+.vulnerable-moon2{
+    width: 126px;
+    height: 22px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 300;
+    position: relative;
+    top: -510px;
+    right:950px;
+}
+.box-aboutHacker3{
+    width: 680px;
+    height: 62px;
+    background-color: #30384D;
+    position: relative;
+    bottom: 460px;
+    right: 390px;
+    border-radius: 10px;
+}
+.crown-Hacker3 img{
+    position: absolute;
+    top:382px;
+    right: 430px;
+}
+.blurred-text3{
+    width: 73px;
+    height: 25px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25.36px;
+    font-family: "IBM Plex Sans Arabic";
+    position: relative;
+    right: 500px;
+    bottom: 503px;
+}
+.Awards-toman3{
+    width: 126px;
+    height: 22px;
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 300;
+    position: relative;
+    top: -525px;
+    right:620px;
+}
+.Awards-moon3{
+    width: 126px;
+    height: 22px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 300;
+    position: relative;
+    top: -545px;
+    right:778px;
+}
+.vulnerable-moon3{
+    width: 126px;
+    height: 22px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 300;
+    position: relative;
+    top: -570px;
+    right:950px;
+}
+.box-aboutHacker4{
+    width: 680px;
+    height: 62px;
+    background-color: #30384D;
+    position: relative;
+    bottom: 510px;
+    right: 390px;
+    border-radius: 10px;
+}
+.crown-Hacker4 img{
+    position: relative;
+    top:-17px;
+    right: 40px;
+}
+.blurred-text4{
+    font-size: 25px;
+    color: #fff;
+    padding: 10px;
+    filter: blur(3px);
+    width: 60px;
+    height: 25px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 200;
+    line-height: px;
+   position: relative;
+   top: -90px;
+   right: 89px;
+}
+.Awards-toman4{
+    width: 126px;
+    height: 22px;
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 300;
+    position: relative;
+    right: 228px;
+    top: -110px;
+}
+.Awards-moon4{
+    width: 126px;
+    height: 22px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 300;
+    position: relative;
+    right: 392px;
+    top: -130px;
+}
+.vulnerable-moon4{
+    width: 126px;
+    height: 22px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 300;
+    position: relative;
+    right: 558px;
+    bottom: 150px;
+}
+.image-Hacker img{
+    position: absolute;
+    right: -20px;
+    top: 90px;
+    width: 70px;
+}
+.dollar img{
+    position: absolute;
+    right: 200px;
+    top: 100px;
+    width: 70px;
+}
+.gift img{
+    
+    position: absolute;
+    right: 490px;
+    top: 100px;
+    width: 70px;
+}
+.measurement-criterion{
+    width: 1451px;
+    height: 166px;
+    background-color: #454C5F;
+    position: relative;
+    top: 85px;
+    left: 530px;
+}
+.text-criterion{
+  font-size: 32px;
+  font-family: "IBM Plex Sans Arabic";
+  font-weight: 500;
+  position: absolute;
+  right: 633px;
+  top: 40px;
+  line-height: 22px;
+}
+.text-p{
+   width: 527px;
+   height: 22px; 
+   font-family: "IBM Plex Sans Arabic";
+   font-weight: 300;
+   font-size: 14px;
+   position: relative;
+   right: 480px;
+   top: 75px;
+}
+.backgraund-black3{
+    width: 1441.52px;
+    height: 1750px;
+    background-color: black;
+    position: relative;
+    top: 85px;
+    right: -520.2px;
+}
+.vulnerability{
+    font-size: 36px;
+    font-weight: 700;
+    word-spacing: 4px;
+    position: absolute;
+    top: 80px;
+    right: 522px;
+}
+.Arvan-text{
+    color: white;
+    width: px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 300;
+    font-size: 14px;
+    line-height: px;
+    position: absolute;
+    right: 340px;
+    top: 165px;
+}
+.Arvan-span{
+    color: white;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 22px;
+    position: absolute;
+    right: 600px;
+    top: 206px;
+}
+.Arvan-green{
+    color: #39FF14;
+}
+.domain{
+    background-color: #272727;
+    width: 360px;
+    height: 60px;
+    position: relative;
+    right: 554px;
+    top: 280px;
+    border: 1px solid #757575;
+    border-radius: 10px;
+
+}
+.domain p{
+   width: 70px;
+   height: 23px;
+   font-family: "IBM Plex Sans Arabic"; 
+   font-weight: 600;
+   font-size: 19px;
+   line-height: 22.55px;
+   position: relative;
+   right: 150px;
+   color: white;
+}
+.domain-message{
+    position: absolute;
+    top: 4px;
+    right: 107px;
+}
+.box-blackdomin{
+    width: 1180px;
+    height: 100px;
+    background-color: #1B1B1B;
+    position: relative;
+    right: calc(160px);
+    left: 130px;
+    top: 325px;
+    border-radius: 10px;
+}
+.Napi{
+    width: 350px;
+    height: 50px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    right: 790px;
+    top: 25px;
+}
+.domain-napi{
+    font-family: "IBM Plex Sans Arabic";
+    font-size: 14px;
+    font-weight: 500;
+    position: absolute;
+    right: 900px;
+    bottom: 25px;
+}
+.Accounts{
+    width: 350px;
+    height: 50px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    right: 39%;
+    top: 250px;
+}
+.domain-Accounts{
+    font-family: "IBM Plex Sans Arabic";
+    font-size: 14px;
+    font-weight: 500;
+    position: absolute;
+    right: 45.5%;
+    top: 410px;
+}
+.Panel{
+    width: 350px;
+    height: 50px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    top: 200px;
+    right: 13%;
+}
+.domain-Panel{
+    font-family: "IBM Plex Sans Arabic";
+    font-size: 14px;
+    font-weight: 500;
+    position: absolute;
+    top: 410px;
+    right: 20%;
+}
+.domain1{
+    background-color: #272727;
+    width: 360px;
+    height: 60px;
+    position: relative;
+    right: 554px;
+    top: 259px;
+    border: 1px solid #757575;
+    border-radius: 10px
+}
+.domain1 p{
+    width: 200px;
+    height: 23px;
+    font-family: "IBM Plex Sans Arabic"; 
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 22.55px;
+    position: relative;
+    right: 75px;
+    color: white;
+}
+.circleicon{
+    position: relative;
+    top: 78px;
+    left: 290px;
+}
+.ipicon{
+    position: relative;
+    top: 19px;
+    left: 282px;
+}
+.backgraund-black4{
+    width: 1180px;
+    height: 260px;
+    background-color: #1B1B1B;
+    position: relative;
+    right: 160px;
+    top: 180px;
+    border-radius: 10px;
+}
+.box-CharcoalBlue{
+    width: 260px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    top: 10%;
+    right: 75%;
+}
+.Address{
+    width: 95px;
+    height: 20px;
+    font-family: "IBM Plex Sans Arabic";
+    font-size: 14px;
+    line-height: 19.73px;
+    position: relative;
+    bottom:1px;
+    right: 81.5%;
+    font-weight: 300;
+}
+.box-CharcoalBlue1{
+    width: 260px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    top: 10%;
+    right: 75%;
+}
+.Address1{
+    width: 95px;
+    height: 20px;
+    font-family: "IBM Plex Sans Arabic";
+    font-size: 14px;
+    line-height: 19.73px;
+    position: relative;
+    bottom:1px;
+    right: 81.5%;
+   font-weight: 300;
+}
+.box-CharcoalBlue2{
+    width: 260px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    bottom: 59%;
+    right: 50%;
+}
+.Address2{
+    width: 95px;
+    height: 20px;
+    font-family: "IBM Plex Sans Arabic";
+    font-size: 14px;
+    line-height: 19.73px;
+    position: relative;
+    bottom: 70%;
+    right: 56%;
+    font-weight: 300;
+}
+.box-CharcoalBlue3{
+    width: 260px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    bottom: 128%;
+    right: 25%;
+}
+.Address3{
+    width: 95px;
+    height: 20px;
+    font-family: "IBM Plex Sans Arabic";
+    font-size: 14px;
+    line-height: 19.73px;
+    position: relative;
+    bottom: 139%;
+    right: 31.2%;
+    font-weight: 300;
+}
+.box-CharcoalBlue4{
+    width: 260px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    bottom: 197.5%;
+    right: 1%;
+}
+.Address4{
+    width: 95px;
+    height: 20px;
+    font-family: "IBM Plex Sans Arabic";
+    font-size: 14px;
+    line-height: 19.73px;
+    position: relative;
+    bottom: 208%;
+    right: 7%;
+    font-weight: 300;
+}
+.box-CharcoalBlue5{
+    width: 260px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    bottom: 200%;
+    right: 37%;
+}
+.Address5{
+    width: 95px;
+    height: 20px;
+    font-family: "IBM Plex Sans Arabic";
+    font-size: 14px;
+    line-height: 19.73px;
+    position: relative;
+    bottom: 210.5%;
+    right: 43.5%;
+    font-weight: 300;
+}
+.ipicon1{
+    position: relative;
+    left: 19%;
+    top: 77px;
+}
+.backgraundgray2{
+    width: 1180px;
+    height: 504px;
+    background-color:#1B1B1B ;
+    position: relative;
+    top: 230px;
+    right: 150px;
+    border-radius: 10px;
+}
+.backgraundgray2 p{
+   width: 30px;
+   height: 23px;
+   font-family: "IBM Plex Sans Arabic";
+   font-weight: 700;
+   font-size: 18px;
+   line-height: 22.55px;
+   color:#757575 ;
+   position: relative;
+   right: 990px;
+   top: 28px;
+}
+.backgraundgray2 span{
+    width: 59px;
+    height: 23px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 700;
+    font-size: 16px;
+    margin-right: 750px;
+   position: relative;
+   top: -16px;
+}
+.p1{
+    width: 34px;
+    height: 23px;
+    font-family: "IBM Plex Sans Arabic";
+    font-size: 16px;
+    color: #757575;
+    font-weight: 700;
+    position: absolute;
+    margin-right: 690px;
+   margin-top: -257px;
+}
+.p1 span{
+    margin-right: -220px;
+   position: relative;
+   top: -48px;
+
+}
+.p2 p{
+    width: 33px;
+    height: 23px;
+    font-family: "IBM Plex Sans Arabic";
+    font-size: 16px;
+    color: #757575;
+    font-weight: 700;
+    position: absolute;
+    margin-right: 253px;
+    margin-top: -250px;
+}
+.linewhite{
+    position: absolute;
+    border: none;
+    border-top: 2px solid white;
+    width: 75%;
+    margin: -195px auto;
+    margin-right: 200px;
+}
+.title-container {
+    text-align: center;
+    position: relative;
+    display: inline-block;
+}
+.highlight-bar{
+    background-color: #39FF14;
+    height: 7px;
+    width: 100px;
+    margin: 0 auto;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 231px;
+    right: 883px;
+    transform: translateX((-50%));
+}
+
+.card1{
+    width: 340px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    bottom: 197.5%;
+    right: 1%;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 14px;
+    position: relative;
+    bottom: 220px;
+    right: 72%;
+   
+}
+.item-list1{
+    width: 320px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: absolute;
+    font-size: 14px;
+    font-weight: 500;
+    position: relative;
+    bottom: 14rem;
+    right: 60rem;
+   
+}
+.item1{
+    position: relative;
+    right: 45px;
+    bottom: 5px;
+}
+.item-list2{
+    width: 471px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 500;
+    position: relative;
+    bottom: 3.2rem;
+    left: 30.1rem;
+}
+.item2{
+    width: 500px;
+    position: absolute;
+    top: -5px;
+    left: 18rem;
+}
+.item-list3{
+    width: 280px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    bottom: 1px;
+    left:50.9rem ;
+}
+.item3{
+    width: 500px;
+   position:absolute;
+   font-size: 12px;
+   top: -5px;
+   left: 35.5rem;
+}
+.item-list4{
+    width: 141px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    right: 176px;
+    bottom: -50px;
+}
+.item4{
+    position:absolute;
+    font-size: 12px;
+    right: 185px;
+    bottom: -55px;
+}
+.item5{
+    width: 321px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    left: 150px;
+    top: 50px;
+}
+.item-list5{
+    position:absolute;
+    font-size: 12px;
+    top: 45px;
+    right: -130px;
+}
+.item6{
+    width: 240px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 50px;
+    left: 480px;
+}
+.item-list6{
+    position:absolute;
+    font-size: 14px;
+    top: 45px;
+    right: -21rem;
+}
+.item7{
+    width: 365px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 50px;
+    left: 45.5rem;
+}
+.item-list7{
+    width: 400px;
+    position:absolute;
+    font-size: 12px;
+    top: 45px;
+    right: -46.9rem;
+}
+.item8{
+    width: 365px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 100px;
+    right: -45px;
+}
+.item-list8{
+    width: 400px;
+    position:absolute;
+    font-size: 12px;
+    top: 95px;
+}
+.item9{
+    width: 295px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 100px;
+    left: 375px;
+}
+.item-list9{
+    width: 400px;
+    position:absolute;
+    font-size: 12px;
+    top: 95px;
+    left: 240px;
+}
+.item10{
+    width: 240px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 100px;
+    left: 680px;
+}
+.item-list10{
+    width: 400px;
+    position:absolute;
+    font-size: 12px;
+    top: 95px;
+    left: 157%;
+}
+.item11{
+    width: 170px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    left: 58rem;
+    top: 100px;
+}
+.item-list11{
+    width: 400px;
+    position:absolute;
+    font-size: 12px;
+    top: 95px;
+    left: 205%;
+}
+.item12{
+    width: 330px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 375%;
+    left:1px;
+}
+.item-list12{
+    width: 400px;
+    position:absolute;
+    font-size: 12px;
+    top: 145px;
+    right: 50px;
+}
+.item13{
+    width: 471px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 375%;
+    right: -490px;
+}
+.item-list13{
+    width: 400px;
+    position:absolute;
+    font-size: 12px;
+    top: 145px;
+    right: -445px;
+}
+.item14{
+    width: 279px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 375%;
+    right: -243.5%;
+}
+.item-list14{
+    width: 400px;
+    position:absolute;
+    font-size: 12px;
+    top: 145px;
+    right: -770px;
+}
+.item15{
+    width: 161px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 500%;
+    right: 155px;
+}
+.item-list15{
+    position:absolute;
+    font-size: 12px;
+    top: 195px;
+    right: 175px;
+
+}
+.item16{
+    width: 321px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 500%;
+    left: 55%;
+}
+.item-list16{
+    width: 400px;
+    position:absolute;
+    font-size: 12px;
+    top: 195px;
+    right: -155px;
+}
+.item17{
+    width: 203px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 500%;
+    left: 157%;
+}
+.item-list17{
+   
+    position:absolute;
+    font-size: 12px;
+    top: 195px;
+    right: -330px;
+}
+.item18{
+    width: 385px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 500%;
+    left: 223%;
+}
+.item-list18{
+    position:absolute;
+    font-size: 12px;
+    top: 195px;
+    right: -750px;
+}
+.item19{
+    width: 333px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 250px;
+    right: -19px;
+}
+.item-list19{
+    position:absolute;
+    font-size: 12px;
+    top: 245px;
+    right: 20px;
+}
+.item20{
+    width: 295px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 250px;
+    left: 347px;
+}
+.item-list20{
+    position:absolute;
+    font-size: 12px;
+    top: 245px;
+    right: -290px;
+    
+    
+}
+.item21{
+    width: 240px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 250px;
+    left: 650px;
+}
+.item-list21{
+    position:absolute;
+    font-size: 12px;
+    top: 245px;
+    right: -555px;
+}
+.item22{
+    width: 202px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 250px;
+    left: 895px;
+}
+.item-list22{
+    position:absolute;
+    font-size: 12px;
+    top: 245px;
+    right: -715px;
+}
+.item23{
+    width: 202px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 300px;
+    right: 110px;
+}
+.item-list23{
+    position:absolute;
+    font-size: 12px;
+    top: 295px;
+    right: 150px;
+}
+.item24{
+    width: 341px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 300px;
+    right: -240px;
+}
+.item-list24{
+    width: 400;
+    position:absolute;
+    font-size: 12px;
+    top: 295px;
+    right: -210px;
+}
+.item25{
+    width: 203px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 300px;
+    right: -450px;
+}
+.item-list25{
+    width: 400;
+    position:absolute;
+    font-size: 12px;
+    top: 295px;
+    right: -390px;
+}
+.item26{
+    width: 320px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 300px;
+    right: -780px;
+}
+.item-list26{
+    width: 400;
+    position:absolute;
+    font-size: 12px;
+    top: 295px;
+    right: -776px;
+}
+.item27{
+    width: 333px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 350px;
+    right: -20px;
+}
+.item-list27{
+    width: 400;
+    position:absolute;
+    font-size: 12px;
+    top: 345px;
+}
+.item28{
+    width: 333px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 350px;
+    right: -360px;
+}
+.item-list28{
+    width: 400;
+    position:absolute;
+    font-size: 12px;
+    top: 345px;
+    right: -307px;
+}
+.item29{
+    width: 260px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 350px;
+    right: -625px;
+}
+.item-list29{
+    width: 400;
+    position:absolute;
+    font-size: 12px;
+    top: 345px;
+    right: -620px;
+}
+.item30{
+    width: 150px;
+    height: 40px;
+    background-color:#30384D ;
+    border-radius: 10px;
+    position: relative;
+    font-size: 200px;
+    position: absolute;
+    top: 350px;
+    right: -783px;
+}
+.item-list30{
+    width: 400;
+    position:absolute;
+    font-size: 12px;
+    top: 345px;
+    right: -750px;
+}
+.box-textgray{
+    width: 1180px;
+    height: 87px;
+    background-color: #454C5F;
+    position: relative;
+    top: 150px;
+    right: 150px;
+    border-radius: 10px;
+}
+.box-textgray p{
+    position: absolute;
+    right: 299px;
+    font-size: 14px;
+    top: 10px;
+    word-spacing: 1px;
+    font-weight: 400;
+}
+.email{
+    color: #39FF14;
+    font-weight: 700;
+}
+.card{
+   margin-top: 20px;
+   margin-right: 200px;
+}
+.Gray1{
+    width: 1441px;
+    height: 425px;
+    background-color: #272727;
+    position: relative;
+    top: 273px;
+    right: px;
+}
+.backgraund-black5{
+    width: 1441.52px;
+    height: 1300px;
+    background-color: black;
+    position: relative;
+    top: 259px;
+}
+.Gray1 img{
+    position: relative;
+    bottom: 88px;
+    right: 660px;
+}
+.Gray1 p{
+    position: absolute;
+    top: 180px;
+    right: 400px;
+}
+.not-Hexa{
+    position: absolute;
+    width: 1180px;
+    height: 450px;
+   border: 1px solid #944040;
+   border-radius: 10px;
+   top: 250px;
+   right: 136px;
+   background-color: black;
+}
+.not{
+    color: rgba(148, 64, 64, 1);
+}
+.item-code1{
+    width: 330px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position:relative;
+    top: 130px;
+    right: 60rem;
+}
+.code1{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 14px;
+    position: relative;
+    right: 55px;
+    bottom: 5px;
+}
+.item-code2{
+    width: 465px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position:relative;
+    left: 29.8rem;
+    bottom: 50px;
+}
+.code2{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 13px;
+    width: 500px;
+    position: relative;
+    left: 28.8rem;
+    bottom: 95px;
+}
+.item-code3{
+    width: 299px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position:relative;
+    left: 49.5rem;
+    bottom: 140px;
+}
+.code3{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 13px;
+    position: relative;
+    left: 48.3rem;
+    bottom: 185px;
+}
+.item-code4{
+    width: 161px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position:relative;
+    bottom: 180px;
+    right: 170px;
+}
+.code4{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 13px;
+    position: absolute;
+    bottom: -58px;
+    right: 185px;
+}
+.item-code5{
+    width: 341px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 220px;
+    left: 180px;
+}
+.code5{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 13px;
+    position: relative;
+    left: 160px;
+    bottom: 265px;
+}
+.item-code6{
+    width: 203px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 310px;
+    left: 395px;
+}
+.code6{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 13px;
+    position: relative;
+    bottom: 355px;
+    left: 330px;
+}
+.item-code7{
+    width: 385px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 400px;
+    left: 49.5rem;
+}
+.code7{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 13px;
+    position: relative;
+    bottom: 400px;
+    left: 48rem;
+    bottom: 445px;
+    width: 500px;
+}
+.item-code8{
+    width: 333px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 27.5rem;
+}
+.code8{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 13px;
+    position: relative;
+    bottom: 30.4rem;
+    right: 18px;
+}
+.item-code9{
+    width: 295px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 33.1rem;
+    left: 19rem;
+}
+.code9{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 35.9rem;
+    left: 18.3rem;
+}
+.item-code10{
+    width: 295px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 38.8rem;
+    left: 38rem;
+}
+.code10{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 41.6rem;
+    left: 35rem;
+}
+.item-code11{
+    width: 180px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 44.5rem;
+    left: 49.7rem;
+}
+.code11{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 47.4rem;
+    left: 46.5rem;
+}
+.item-code12{
+    width: 330px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 47rem;
+    right: 2px;
+}
+.code12{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 49.9rem;
+    right: 70px;
+}
+.item-code13{
+    width: 459px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 52.6rem;
+    left: 30rem;
+}
+.code13{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 55.5rem;
+    left: 28rem;
+    width: 400px;
+}
+.item-code14{
+    width: 299px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 58.3rem;
+    left: 49.5rem;
+}
+.code14{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 61.2rem;
+    left: 48.5rem;
+}
+.item-code15{
+    width: 161px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 60.8rem;
+    right: 10.5rem;
+}
+.code15{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: absolute;
+    bottom: -13.3rem;
+    right: 11.7rem;
+}
+.item-code16{
+    width: 341px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 63.3rem;
+    left: 11.5rem;
+}
+.code16{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 66.2rem;
+    left: 9.5rem;
+}
+.item-code17{
+    width: 203px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 69rem;
+    left: 25rem;
+}
+.code17{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 71.8rem;
+    left: 21.5rem;
+}
+.item-code18{
+    width: 385px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 74.7rem;
+    left: 49.5rem;
+}
+.code18{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 74rem;
+    left: 15px;
+    bottom: 77.5rem;
+    left: 47.5rem;
+}
+.item-code19{
+    width: 333px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 77rem;
+    left: 2px;
+}
+.code19{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 79.8rem;
+    right: 30px;
+}
+.item-code20{
+    width: 295px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 82.7rem;
+    left: 19.5rem;
+}
+.code20{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 85.5rem;
+    left: 17.5rem;
+}
+.item-code21{
+    width: 260px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 88.3rem;
+    left: 36.5rem;
+}
+.code21{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 91.2rem;
+    left: 34.7rem;
+}
+.item-code22{
+    width: 202px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 94rem;
+    left: 49.6rem;
+}
+.code22{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 96.7rem;
+    left: 46rem;
+}
+.item-code23{
+    width: 161px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 96.5rem;
+    right: 10.5rem;
+}
+.code23{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 99.4rem;
+   margin-right: 185px;
+}
+.item-code24{
+    width: 341px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 102.2rem;
+    left: 12rem;
+}
+.code24{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 105rem;
+    left: 9.3rem;
+}
+.item-code25{
+    width: 203px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 107.9rem;
+    left: 26rem;
+}
+.code25{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 110.6rem;
+    left: 22.5rem;
+}
+.item-code26{
+    width: 365px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 113.6rem;
+    left: 49.7rem;
+}
+.code26{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 116.5rem;
+    left: 48rem;
+}
+.item-code27{
+    width: 333px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 116rem;
+    left: 5px;
+}
+.code27{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 118.9rem;
+    right: 25px;
+}
+.item-code28{
+    width: 295px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 121.7rem;
+    left: 20rem;
+}
+.code28{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 124.5rem;
+    left: 18rem;
+}
+.item-code29{
+    width: 240px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 127.3rem;
+    left: 36rem;
+}
+.code29{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 130.2rem;
+    left: 35rem;
+}
+.item-code30{
+    width: 202px;
+    height: 40px;
+    background-color: rgb(121, 52, 52);
+    border-radius: 10px;
+    position: relative;
+    bottom: 130.2rem;
+    left: 49.9rem;
+    bottom: 133rem;
+}
+.code30{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: 135.8rem;
+    left: 46.6rem;
+}
+.Rules p{
+    position: absolute;
+    bottom: -35rem;
+    width: 500px;
+    left: 275px;
+    font-family: "IBM Plex Sans Arabic";
+}
+.Report{
+    position: relative;
+    bottom: 124rem;
+    width: 780px;
+    left:37rem;
+    font-size: 14px;
+    font-weight: 300;
+}
+.Report2{
+    position: relative;
+    bottom: 125.8rem;
+    width: 780px;
+    left:32rem;
+    font-size: 14px;
+    font-weight: 300;
+}
+.Report-green{
+    color: #39FF14;
+}
+.Report-image{
+   position: relative;
+   top: -120rem;
+   left: 85rem;
+   opacity: 0.1;
+}
+.Square{
+    width: 24px;
+    height: 24px;
+    border-radius: 4px;
+    border: 1px solid white;
+    position: relative;
+    bottom: 154.9rem;
+    left: 45rem;
+}
+.Square-image{
+    margin-top: -150px;
+   position: absolute;
+   left: 56.5rem;
+}
+.Square-p{
+    position: relative;
+    bottom: 157.3rem;
+    width: 750px;
+    left: 679px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: "IBM Plex Sans Arabic";
+}
+.Square1{
+    width: 24px;
+    height: 24px;
+    border-radius: 4px;
+    border: 1px solid white;
+    position: relative;
+    bottom: 156rem;
+    left: 45rem;
+}
+.Information{
+    font-size: 14px;
+    font-weight: 500;
+    font-family: "IBM Plex Sans Arabic";
+    width: 500px;
+    position: relative;
+    right: 39px;
+    bottom: 15px;
+}
+.Square2{
+    width: 24px;
+    height: 24px;
+    border-radius: 4px;
+    border: 1px solid white;
+    position: relative;
+    bottom: 154rem;
+    left: 45rem;
+}
+.Information{
+    width: 550px;
+}
+.Square3{
+    width: 24px;
+    height: 24px;
+    border-radius: 4px;
+    border: 1px solid white;
+    position: relative;
+    bottom: 152rem;
+    left: 45rem;
+}
+.Square4{
+    width: 24px;
+    height: 24px;
+    border-radius: 4px;
+    border: 1px solid white;
+    position: relative;
+    bottom: 150rem;
+    left: 45rem;
+}
+.Square5{
+    width: 24px;
+    height: 24px;
+    border-radius: 4px;
+    border: 1px solid white;
+    position: relative;
+    bottom: 148rem;
+    left: 45rem;
+}
+.Square6{
+    width: 24px;
+    height: 24px;
+    border-radius: 4px;
+    border: 1px solid white;
+    position: relative;
+    bottom: 146rem;
+    left: 45rem;
+}
+.Square6{
+    width: 24px;
+    height: 24px;
+    border-radius: 4px;
+    border: 1px solid white;
+    position: relative;
+    bottom: 145.5rem;
+    left: 45rem;
+}
+.Square7{
+    width: 24px;
+    height: 24px;
+    border-radius: 4px;
+    border: 1px solid white;
+    position: relative;
+    bottom: 143rem;
+    left: 45rem;
+}
+.Square8{
+    width: 24px;
+    height: 24px;
+    border-radius: 4px;
+    border: 1px solid white;
+    position: relative;
+    bottom: 140rem;
+    left: 45rem;
+}
+.Information{
+    width: 800px;
+}
+.Square9{
+    width: 24px;
+    height: 24px;
+    border-radius: 4px;
+    border: 1px solid white;
+    position: relative;
+    bottom: 137rem;
+    left: 45rem;
+}
+.Square10{
+    width: 24px;
+    height: 24px;
+    border-radius: 4px;
+    border: 1px solid white;
+    position: relative;
+    bottom: 134rem;
+    left: 45rem;
+}
+.backgraund-grow{
+    width: 1441.2px;
+    height: 521px;
+    background-color: #272727;
+    position: relative;
+    bottom: 130.6rem;
+    left: 60rem;
+}
+.backgraund-grow img{
+    position: relative;
+    right: 65rem;
+    opacity: 0.1;
+}
+.title-Report{
+    position: absolute;
+    left: 700px;
+    bottom: 400px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 700;
+    font-size: 36px;
+}
+.AbarArvan{
+    width: 378px;
+    height: 20px;
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 200;
+    font-size: 15px;
+    position: relative;
+    bottom: 127px;
+    right: 240px;
+}
+.Roundsquare{
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+    background-color: white;
+    position: relative;
+    bottom: 149rem;
+    left: 45rem;
+}
+.Roundsquare p{
+    width: 800px;
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    bottom: 22px;
+    right: 30px;
+
+}
+.Roundsquare1{
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+    background-color: white;
+    position: relative;
+    bottom: 147rem;
+    left: 45rem;
+}
+.Roundsquare1 p{
+    width: 800px;
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    bottom: 22px;
+    right: 30px;
+}
+.Roundsquare2{
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+    background-color: white;
+    position: relative;
+    bottom: 145rem;
+    left: 45rem;
+}
+.Roundsquare2 p{
+    width: 800px;
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    bottom: 22px;
+    right: 30px;
+}
+.Roundsquare3{
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+    background-color: white;
+    position: relative;
+    bottom: 143rem;
+    left: 45rem;
+}
+.Roundsquare3 p{
+    width: 800px;
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    bottom: 22px;
+    right: 30px;
+}
+.Roundsquare4{
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+    background-color: white;
+    position: relative;
+    bottom: 141rem;
+    left: 45rem;
+}
+.Roundsquare4 p{
+    width: 800px;
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    bottom: 22px;
+    right: 30px;
+}
+.backgraund-light{
+    width: 1441px;
+    height: 800px;
+    background-color: rgba(69, 76, 95, 1);
+    position: relative;
+    bottom: 134.4rem;
+    left: 60rem;
+}
+.Products{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 16px;
+    color: #39FF14;
+    margin-right: 237px;
+    position: relative;
+    top: 60px;
+   
+  
+}
+.contenr{
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    
+}
+.Solutions{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 16px;
+    color: #39FF14;
+   position: absolute;
+   right: 15rem;
+   top: -10px;
+    
+  
+}
+.contenr1{
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.Resources{
+    font-family: "IBM Plex Sans Arabic";
+    font-weight: 500;
+    font-size: 16px;
+    color: #39FF14;
+   margin-right: 280px;
+   position: relative;
+   bottom: 660px;
+   
+   
+}
+.contenr2{
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+}
+.Arvan{
+    position: relative;
+    right: 15rem;
+    bottom: 41rem;
+}
+.contenr4{
+    position: absolute;
+    right: 13rem;
+    bottom: 200px;
+    width: 200px;
+    color: white;
+    font-weight: 300;
+    font-size: 16px;
+
+}
+
+.Communications{
+    position: relative;
+    right: 26rem;
+    bottom: 44rem;
+}
+.contenr5{
+    position: absolute;
+    right: 26rem;
+    bottom: 400px;
+    width: 200px;
+    color: white;
+    font-weight: 300;
+    font-size: 16px;
+
+}
+
+
+
+
+
+
+
+
+
